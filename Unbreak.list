@@ -41,6 +41,6 @@ DOMAIN,analytics.strava.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > kuwo
-host-suffix, mobilead.kuwo.cn
-HOST-SUFFIX, NMOBI.KUWO.CN
-HOST-SUFFIX, KUWO.CN
+DOMAIN-SUFFIX,mobilead.kuwo.cn
+DOMAIN-SUFFIX,NMOBI.KUWO.CN
+DOMAIN-SUFFIX,KUWO.CN
