@@ -45,3 +45,36 @@ DOMAIN,msg.umengcloud.com
 DOMAIN-SUFFIX,mobilead.kuwo.cn
 DOMAIN-SUFFIX,NMOBI.KUWO.CN
 DOMAIN-SUFFIX,KUWO.CN
+# Kuwo
+host-suffix, cn.cw101.rsvp
+host-suffix, ice.frostsky.com
+host-suffix, i.mij.rip
+host-suffix, qualcomm.cn
+host-suffix, gw.heic.alichn.com
+host-suffix, tokyohot-api-aries.nmwthg.com
+host-suffix, gw.alicdn.com
+host-suffix, imou.com
+host-suffix, appservices.easy4ipcloud.com
+host-suffix, easy4ipcloud.com
+host-suffix, www.dahuap2p.com
+host-suffix, local
+host-suffix, client.app.coc.10086.cn
+host-suffix, 10086.cn
+host, office.lizeyanggd.com
+host, ad.12306.cn
+host, sdkapp.uve.weibo.com
+host, bag.itunes.apple.com
+host-suffix, ucweb.com
+HOST, AMDC.M.TAOBAO.COM
+# lvlian
+host-keyword, ugreen
+host-keyword, ugreengroup
+# kuaishou
+host-suffix, adkwai.com
+host-suffix, kuaishou.com
+host-suffix, kskwai.com
+# douyin
+host-suffix, snssdk.com
+host-suffix, amemv.com
+
+
